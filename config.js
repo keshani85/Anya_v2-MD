@@ -22,7 +22,7 @@ global.timezone = process.env.TimeZone || "Asia/Kolkata"
 global.instagramId = process.env.Insta || "8.08_only_mine" 
 global.email = process.env.Email_Id || "example@example.com" 
 
-global.mongoUrl = process.env.MongoDB || "Enter"; 
+global.mongoUrl = process.env.MongoDB || "mongodb+srv://gamingzika:NADEW###@whatsappb02.y4tyiat.mongodb.net/"; 
 
 global.warns = process.env.Warns_Limits || 3; 
 
